@@ -218,7 +218,7 @@ describe('Gettext', function() {
         });
     });
 
-    describe('Unresolvable transaltions', function() {
+    describe('Unresolvable translations', function() {
         beforeEach(function() {
             gt.addTranslations('et-EE', 'messages', jsonFile);
         });

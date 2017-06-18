@@ -328,7 +328,7 @@ gt.npgettext('sports', 'Back', '%d backs', numberOfBacks)
 <a name="Gettext+dnpgettext"></a>
 
 ### gettext.dnpgettext(domain, msgctxt, msgid, msgidPlural, count) ⇒ <code>String</code>
-Translates a plural string from a specifi context using a specific textdomain
+Translates a plural string from a specific context using a specific textdomain
 
 **Returns**: <code>String</code> - Translation or the original string if no translation was found  
 **Params**
